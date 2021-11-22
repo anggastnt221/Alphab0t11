@@ -3,30 +3,16 @@ return `PAYMENT BY ZEEONE OFC
 
 *🏧 BANK*
 
-1. BRI 
-	ㅁ 8881 0887 4350 47326
-2. BCA 
-	ㅁ 3901 0887 4350 47326
-3. BNI 
-	ㅁ 881 0887 4350 47326
-4. PERMATA
-	ㅁ 852 8887 4350 47326
+1. BCA 
+	ㅁ 7641128647 A.n Angga Setianto
 	
 *💰 E-MONEY*
 
-1. GOPAY
-	ㅁ 0887 4350 47326
-2. OVO
-	ㅁ 0887 4350 47326
-3. DANA
-	ㅁ 0887 4350 47326
+1. DANA
+	ㅁ 083873258832
 	
-Semuanya atas nama RI****DI
-
-*📲 PULSA*
-
-Tidak tersedia
-	
+2. E-WALLET LAIN SILAHKAN SCAN QRIS
+	ㅁ https://s.id/I8uWZ
 Sebelum melakukan pembayaran ada baiknya anda menghubungi owner terlebih dahulu!
 `
 	}
